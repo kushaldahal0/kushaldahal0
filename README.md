@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldahal0&layout=compact" alt="kushaldahal" /></p>
-- 🔭 I’m currently student
-- 🌱 I’m currently learning Information Technology
+<p align='center'> 🔭 I’m currently student <br>
+🌱 I’m currently learning Information Technology</p>
