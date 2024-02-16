@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hy 👋, I'm Kushal Dahal</h1>
+<h3 align="center">_Exploring Technology_</h3>
 
 <!--
 **kushaldahal0/kushaldahal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldahal0&layout=compact" alt="kushaldahal" /></p>
 - 🔭 I’m currently student
 - 🌱 I’m currently learning Information Technology on Machine Learning
