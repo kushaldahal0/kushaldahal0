@@ -3,7 +3,7 @@
 
 <p align="center">
   Building backend systems and AI-powered applications.<br/>
-  Currently at <strong>Volcussoft</strong>: working on financial data APIs and trading analytics for <a href="https://laganisutra.com">Laganisutra</a>.
+  Currently working on financial data APIs and trading analytics for <a href="https://laganisutra.com">Laganisutra</a>.
 </p>
 
 ---
