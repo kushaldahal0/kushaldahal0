@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Kushal Dahal</h1>
-<h3 align="center">Exploring Technology</h3>
+<h1 align="center">Kushal Dahal</h1>
+<h3 align="center">Backend Developer · Python · Django · AI Integrations</h3>
 
-<!--
-**kushaldahal0/kushaldahal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building backend systems and AI-powered applications.<br/>
+  Currently at <strong>Volcussoft</strong> — working on financial data APIs and trading analytics for <a href="https://laganisutra.com">Laganisutra</a>.
+</p>
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldahal0&layout=compact" alt="kushaldahal" /></p>
-<p align='center'> 🔭 I’m currently learner<br>
-📫 How to reach me: <a href="mailto:kushal.dahal.234@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-kushal.dahal.234@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Me">
+### 🔧 What I Work With
+
+**Backend**
+`Python` `Django` `Django REST Framework` `FastAPI` `Flask`
+
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `ClickHouse` `SQLite`
+
+**AI / Data**
+`LangChain` `FAISS` `HuggingFace` `Pandas` `NumPy` `Scikit-learn`
+
+**Infrastructure**
+`Docker` `RabbitMQ` `Celery` `Redis` `Nginx` `Render` `GitHub Actions`
+
+---
+
+### 📫 Reach Me
+
+<a href="mailto:kushal.dahal.234@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kushal.dahal.234@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
 </a>
-<br>
-⚡ Fun fact: The F-35 Lightning II runs on over 8 million lines of code, more than most airliners. Its core systems use C++ and Ada, with C# in support tools and simulators. JavaScript powers parts of ALIS, the web-based system used by ground crews to monitor and maintain the jet.</p>
+&nbsp;
+<a href="https://www.linkedin.com/in/kushal-dahal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Dahal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
